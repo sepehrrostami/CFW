@@ -1,0 +1,9 @@
+{
+  "name": "edge-relay",
+  "main": "src/worker.js",
+  "compatibility_date": "2024-09-23"
+
+  // Optional: set a preferred fallback host as a secret (not committed to git).
+  //   npx wrangler secret put PROXYIP
+  // If unset, the built-in fallback list in src/worker.js is used instead.
+}
