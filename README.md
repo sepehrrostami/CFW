@@ -109,4 +109,4 @@ edge-relay/
 
 ## License
 
-MIT — update this section with your preferred license before publishing.
+MIT
